@@ -6,11 +6,11 @@ namespace NoSleepCooldown
 {
     public class NoSleepCooldown : Mod
     {
-        public override string ID => "YourModUniqueID";
+        public override string ID => "NoSleepCooldown";
 
-        public override string Name => "Your Mod Name";
+        public override string Name => "No Sleep Cooldown";
 
-        public override string Author => "Your Name";
+        public override string Author => "Zach.O";
 
         public override string Version => "1";
 
